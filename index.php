@@ -5,8 +5,8 @@
     <head>
 	
         <meta charset="utf-8">
-        <title>ftcash</title>
-		<link rel="icon" src="assets/img/favicon-16x16.png" type="image/png">
+        <title>mobPayment</title>
+		<link rel="icon" src="assets/img/ftcash/logo/5-mobile-payment.jpg" type="image/png">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <meta name="description" content="ftcash">
         <meta name="author" content="ftcash sunil prasad">
